@@ -134,3 +134,4 @@ Project ini menggunakan beberapa konsep dasar Python, yaitu:
 ## Kesimpulan
 
 Dengan menggunakan module, program menjadi lebih rapi dan terstruktur. File `atha002.py` berisi kumpulan fungsi operasi matriks, sedangkan file `main.py` digunakan sebagai program utama untuk memanggil dan menjalankan fungsi-fungsi tersebut.
+LINK VIDEO PENJELASAN DI YOUTUBE : 
